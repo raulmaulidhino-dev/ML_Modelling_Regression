@@ -1,5 +1,5 @@
-# Python_EDA_ExploratoryDataAnalysis
-EDA is Explanatory Data Analysis. There are many factors that influence the grades/scores of students. One of the factors is study hours. In this mini analysis project, there are 3 models that will learn and predict the relation between study hours of students and thei scores in an exam/test.
+# ML_Modelling_Regression
+There are many factors that influence the grades/scores of students. One of the factors is study hours. In this mini analysis project, there are 3 models that will learn and predict the relation between study hours of students and their scores in an exam/test. This project will result the best ML model to solve the problem. 
 
 **Goals :**
 -  Range of best number of study hours to get a high score
