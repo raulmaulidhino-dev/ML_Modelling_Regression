@@ -10,7 +10,7 @@ There are many factors that influence the grades/scores of students. One of the 
 With this analysis, the students are able to find the perfect range of study hours for getting good scores.
 
 **Insights :**
-- Study Hours and Scores are strongly relateddisarankan
+- Study Hours and Scores are strongly related
 - Studying for 12 hours and above per day can increase the chances of getting high scores
 - Approximately 4 hours of study time and 2 hours or less is the ideal time to study
 
